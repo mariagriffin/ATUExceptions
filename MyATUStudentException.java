@@ -1,6 +1,5 @@
 import java.util.InputMismatchException;
 import java.util.Scanner;
-
 import javax.swing.JOptionPane;
  
 public class MyATUStudentException extends Exception {
