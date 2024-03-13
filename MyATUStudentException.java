@@ -92,6 +92,7 @@ public class MyATUStudentException extends Exception {
             } catch (MyATUStudentException e) {
                 System.out.println("MyATUException : Exception has happened...");
             }
+           //add finally method and stop loop
         }
     }
 
