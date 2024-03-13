@@ -19,10 +19,10 @@ This is a small Java application that processes a text file containing student n
   
   Calculate the average score of all students.
 
-## Requirements:
+# Requirements:
 
-# Exception Handling
-# You need to complete the rest:
+## Exception Handling
+### You need to complete the rest:
   **1. Handle FileNotFoundException if the input file does not exist.**
   
   **2. Handle IOException for other IO errors.**
