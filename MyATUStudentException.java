@@ -58,7 +58,7 @@ public class MyATUStudentException extends Exception {
 
 
 //Part 5 - Create your own Exception  
-
+//          Go to the top and create the constructors for this class
 
     public static void fakeMethod() throws MyATUStudentException {
         //Can you complete this using the empty constructor?
