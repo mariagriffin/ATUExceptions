@@ -91,10 +91,6 @@ public class MyATUStudentException extends Exception {
                     System.out.println("No exception thrown ");
             } catch (MyATUStudentException e) {
                 System.out.println("MyATUException : Exception has happened...");
-
-                if (count == 2){
-                    break; // out of "while"
-                }
             }
         }
     }
