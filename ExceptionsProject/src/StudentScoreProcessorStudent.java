@@ -6,12 +6,6 @@ import java.io.IOException;
 
 // Create your own custom exception for invalid data format
 
-// class InvalidDataFormatException extends Exception {
-//     public InvalidDataFormatException(String message) {
-//         super(message);
-//     }
-// }
-
 public class StudentScoreProcessorStudent {
 
     public static void main(String[] args) {
