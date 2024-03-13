@@ -6,7 +6,7 @@
 
 This is a small Java application that processes a text file containing student names and their scores in a subject, separated by commas (e.g., "John Doe, 85"). The application should read the file, calculate the average score of all students, and write the result to a new file. Additionally, the application must handle various exceptions that may arise during the process.
 
-# The code will :
+# What the codes does :
 **File Reading and Writing**
 
   Read from a file named students.txt
