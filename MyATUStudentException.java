@@ -57,7 +57,7 @@ public class MyATUStudentException extends Exception {
     }
 
 
-//Part 5 - Catch multiple Exceptions.  
+//Part 5 - Create your own Exception  
 
 
     public static void fakeMethod() throws MyATUStudentException {
