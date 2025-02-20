@@ -8,7 +8,6 @@ public class MyATUStudentException extends Exception {
 //Part 5  - Come back here and Create 2 constructors, one that is empty and one that will parse a message
 
 
-
 //Part 1  - Put a try/catch block around the code to handle the InputMismatchException exception.
 //          The program should end gracefull with an error message instead of thowing an exception.
     public static void part1(){
